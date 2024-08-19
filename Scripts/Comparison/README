@@ -1,1 +1,8 @@
+Download data files from Data/Minimised Circuits/
 
+
+Download all files and keep in same local directory.
+
+
+To run:
+python -u test_script.py --
