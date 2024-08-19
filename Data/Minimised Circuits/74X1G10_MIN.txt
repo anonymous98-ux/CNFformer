@@ -1,0 +1,1 @@
+(-x2 OR x3 OR x7) AND (x2 OR -x3) AND (x2 OR -x7) AND (-x8) AND (-x2)
