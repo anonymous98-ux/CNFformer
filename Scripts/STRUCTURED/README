@@ -14,4 +14,4 @@ python -u test_cnfformer.py --circuit <CIRCUIT_NAME> --model_path <MODEL_PATH> -
 
 
 To run equivalent code for random problems:
-python -u test_cnfformer_random.py --circuit <ANY RANDOM NAME> --model_path <MODEL_PATH> --data_dir <PATH TO DATA FILE> --iterations <ITERATIONS (30 used in paper)> --num_vars <NUM_VARS> --num_clauses <NUM_CLAUSES>
+python -u test_cnfformer_random.py --circuit <ANY RANDOM NAME> --model_path <MODEL_PATH> --data_dir <PATH TO DATA FILE> --iterations <ITERATIONS> --num_vars <NUM_VARS> --num_clauses <NUM_CLAUSES>
