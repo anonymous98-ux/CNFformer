@@ -1,0 +1,5 @@
+Download all files and keep in same local directory.
+
+
+To run:
+python -u test_pipeline.py --model_path <MODEL_PATH> --data_dir_path <CURRENT WORKING DIRECTORY> --output_dir_path <CURRENT WORKING DIRECTORY> --num_vars <NUM_VARIABLES> --num_clauses <NUM_CLAUSES> --instances <INSTANCES(100,150)>
