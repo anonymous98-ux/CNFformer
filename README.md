@@ -14,4 +14,4 @@ Detailed instructions to run each experiment in a README document in the respect
 
 
 Notes on results:
-Please note that there would be some variablity in the results, as they are averaged across several runs. However, the overall trends and conclusions (hypotheses) remain consistent. This variability is a known aspect of the methods employed and does not affect the validity of the comparisons or the conclusions drawn from the experiments. 
+Please note that there would be some variability in the results, as they are averaged across several runs. However, the overall trends and conclusions (hypotheses) remain consistent. This variability is a known aspect of the methods employed and does not affect the validity of the comparisons or the conclusions drawn from the experiments. 
