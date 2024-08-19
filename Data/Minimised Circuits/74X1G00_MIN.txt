@@ -1,0 +1,1 @@
+(x2 OR x3 OR -x4 OR -x5 OR x6) AND (-x2 OR -x3) AND (-x2 OR -x6) AND (-x2 OR x5) AND (-x2 OR x4) AND (-x7) AND (x2)
