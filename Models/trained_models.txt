@@ -1,0 +1,8 @@
+Please refer to the following link to download the trained models. 
+It contains three models labelled:
+a. Baselin_EP30 -> this is the baseline model. 
+b. Fine_Tuned_EP50 -> This is the fine-tuned version checkpointed at epoch 50.
+c. Fine_Tuned_EP65 -> This is the fine-tuned version checkpointed at epoch 65.
+
+https://drive.google.com/drive/folders/1DRJnIR8rK8yOtlMB_xkeH3EDVn_IMobe?usp=drive_link
+
