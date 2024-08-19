@@ -11,3 +11,7 @@ All commands are to be run on the command line.
 A GPU with 48GB space was used to run all the experiments. For quick inference, run on GPU. Code can be run on cpu too but inference time will be slow. Script will automatically select GPU if available.
 Detailed instructions to run each experiment in a README document in the respective folders.
 
+
+
+Notes on results:
+Please note that there would be some variablity in the results, as they are averaged across several runs. However, the overall trends and conclusions (hypotheses) remain consistent. This variability is a known aspect of the methods employed and does not affect the validity of the comparisons or the conclusions drawn from the experiments. 
