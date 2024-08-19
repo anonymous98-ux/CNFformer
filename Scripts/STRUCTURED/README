@@ -1,7 +1,15 @@
 To run code on structured problems, download data files from Data directory.
 
 
-To run:
+To run experiments for 5.5 (XOR trees):
+Download data files for XOR trees.
+
+
+python -u test_xor.py --internal_nodes <GIVEN IN DATA FILE NAME> --source_file <SOURCE FILE> --target_file <TARGET FILE> --model_path <MODEL_PATH>
+For running equivalent random 3-SAT against xor trees, refer to Random 3-SAT scripts. 
+
+
+To run experiments for 5.5 (circuits and CNFGEN):
 python -u test_cnfformer.py --circuit <CIRCUIT_NAME> --model_path <MODEL_PATH> --data_dir <PATH TO DATA FILE> --iterations <ITERATIONS (30 used in paper)>
 
 
