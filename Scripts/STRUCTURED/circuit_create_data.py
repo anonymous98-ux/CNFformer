@@ -219,7 +219,7 @@ def main(input_file,output_source,output_target):
     cnf_formula = read_cnf_from_file(input_file)   
     num_vars = find_max_variable(cnf_formula) 
     formula_number = 1
-    instances = 100
+    instances = 150
     solutions_count = 0
     non_solutions_count = 0
     retry_assignments = []
