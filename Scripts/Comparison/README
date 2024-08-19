@@ -5,4 +5,5 @@ Download all files and keep in same local directory.
 
 
 To run:
-python -u test_script.py --
+python -u test_script.py --circuit <CIRCUIT NAME (CAN USE SAME NAME AS DATA FILE)> --model_path <ADD PATH TO DOWNLOADED MODEL> --data_dir <CURRENT WORKING DIRECTORY>
+                          --iterations <SPECIFY NUMBER OF ITERATIONS, 30 used for experiments>
