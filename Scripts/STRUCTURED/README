@@ -1,0 +1,5 @@
+To run code on structured problems, download from Data directory.
+
+
+To run:
+python -u test_cnfformer.py --circuit <CIRCUIT_NAME> --model_path <MODEL_PATH> --data_dir <PATH TO DATA FILE> --iterations <ITERATIONS (30 used in paper)>
